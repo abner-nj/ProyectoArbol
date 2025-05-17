@@ -11,6 +11,8 @@ Nota: este programa solo permite ejecutar 1 arbol a la vez, no guarda arboles an
 Ejemplo 1
 Secuencia a ingresar: [10,20,30]
 
+![](https://github.com/abner-nj/ProyectoArbol/blob/main/E1.JPG)
+
 Ejemplo 2
 Secuencia a ingresar: [30, 20, 40, 10, 25, 35, 50, 5]
 
