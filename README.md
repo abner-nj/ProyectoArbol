@@ -25,5 +25,19 @@ Secuencia a ingresar: [30, 20, 40, 10, 25, 35, 50, 5]
 Ejemplo 3
 Secuencia a ingresar: [15, 10, 20, 8, 12, 17, 25, 6]
 
+
+
+![](https://github.com/abner-nj/ProyectoArbol/blob/main/e3.1.JPG)
+
+
+![](https://github.com/abner-nj/ProyectoArbol/blob/main/e3.2.JPG)
+
 Ejemplo 4
 Secuencia a ingresar: [50, 30, 70, 20, 40, 60, 80, 35]
+
+
+
+![](https://github.com/abner-nj/ProyectoArbol/blob/main/e4.1.JPG)
+
+
+![](https://github.com/abner-nj/ProyectoArbol/blob/main/e4.2.JPG)
